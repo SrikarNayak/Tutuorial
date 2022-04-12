@@ -1,4 +1,3 @@
 hello
 I'm Srikar Nayak
-An aspiring Full Stack web developer
-in MERN stack
+An aspiring Full Stack web Developer
